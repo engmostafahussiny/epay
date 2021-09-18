@@ -1,0 +1,6 @@
+﻿  EntryScreen.cpp
+D:\epay\GreedyAlgorithm\EntryScreen.cpp(5,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generating Code...
+  EntryScreen.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  GreedyAlgorithm.vcxproj -> D:\epay\GreedyAlgorithm\Debug\GreedyAlgorithm.exe

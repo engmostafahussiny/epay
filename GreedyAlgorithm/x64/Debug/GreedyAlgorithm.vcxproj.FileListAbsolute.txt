@@ -1,0 +1,4 @@
+D:\epay\GreedyAlgorithm\x64\Debug\GreedyAlgorithm.EntryScreen.resources
+D:\epay\GreedyAlgorithm\x64\Debug\GreedyAlgorithm.WithdrawalScreen.resources
+D:\epay\GreedyAlgorithm\x64\Debug\GreedyAlgorithm.vcxproj.GenerateResource.cache
+D:\epay\GreedyAlgorithm\x64\Debug\GreedyAlgorithm.exe
